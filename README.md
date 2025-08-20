@@ -18,7 +18,7 @@ A command-line ATM simulation system built in **C++**, allowing users to securel
 ## 📁 File Structure
 
 ├── project_01.cpp // Main source code
-├── accounts.txt // Stores account numbers, PINs, and balances
+├── accounts.txt // Stores account numbers, Passwaords/PINs, and balances
 ├── account_XXXX.txt // Individual transaction history
 
 ---
